@@ -27,7 +27,3 @@ Just drop any `.ttf` file into the game root folder. No specific filename needed
 
 - Tested with Unity 2022.3.62f3 (Casualties: Unknown Demo)
 - TMP (TextMeshPro) only — does not affect legacy GUI text
-
-## License
-
-MIT
